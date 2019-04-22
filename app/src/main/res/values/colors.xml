@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="qmui_config_color_separator">#DEE0E2</color>
+    <drawable name="window_background">#0000</drawable>
+
+</resources>
